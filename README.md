@@ -1,4 +1,5 @@
 # TO-DO-APP
+ A Simple template of react js based todo app hosted on firebase.
 🔥 Firebase (database)
 🔥 Real-time database 
 🌎 Hosted Online (on Firebase)
@@ -6,4 +7,4 @@
 ✔ Material-UI for the design(front-end)
 ✔ Used REACT
   -REACT Hooks
-  A Simple template of react js based todo app hosted on firebase.
+
