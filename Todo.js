@@ -79,11 +79,3 @@ const updateTodo= () => {
 export default Todo
 
 
-// 🔥 Firebase (database)
-// 🔥 Real-time database 
-// 🌎 Hosted Online (on Firebase)
-// ✔ Full CRUD Functionality (Create, Read, Update & Delete)
-// ✔ Material-UI for the design(front-end)
-// ✔ Used REACT
-// -REACT Hooks
-//  -
